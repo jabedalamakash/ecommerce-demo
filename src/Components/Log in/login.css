@@ -1,0 +1,14 @@
+.form{
+    margin-bottom: 10px;
+}
+#name,#email,#password{
+    margin-left:5px;
+}
+#btn{
+    padding:5px;
+    border-radius:15px;
+    color: white;
+    background-color: green;
+    border:none;
+    
+}
